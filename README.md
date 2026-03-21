@@ -3,7 +3,6 @@
 
 
 
-## 🙋‍♂️ About Me
 
 I'm a Java developer and web developer with a strong foundation in computer fundamentals in Artificial Intelligence & Machine Learning.
 ---
