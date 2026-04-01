@@ -14,7 +14,7 @@ I'm a **Java Full Stack Developer** with a strong foundation in **Artificial Int
 - 🔭 I’m currently working on **Full Stack Web Development projects**
 - 🌱 I’m currently learning **Microservices & Cloud Technologies**
 - 💬 Ask me about **Java, Spring Boot, React, and System Design**
-- 📫 Reach me at: **siddhant.shukla@example.com**
+- 📫 Reach me at: **siddhantshukla31to10@gmail.com**
 - ⚡ Fun fact: I love contributing to open-source and exploring new tech stacks.
 
 ---
