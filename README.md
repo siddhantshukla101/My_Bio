@@ -58,7 +58,7 @@ I'm a **Java Full Stack Developer** with a strong foundation in **Artificial Int
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhant101&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=siddhant101&show_icons=true&theme=radical" alt="" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant101&theme=radical" alt="" width="48%"/>
 </p>
 
